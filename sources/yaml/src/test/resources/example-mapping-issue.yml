@@ -1,0 +1,17 @@
+parent:
+  goodchildren:
+    child1:
+      name: John
+      attributes:
+        somekey: somevalue
+        anotherkey: anothervalue
+    child2:
+      name: James
+      attributes:
+        something: isbroken
+  badchildren:
+    child3:
+      name: BadJohn
+      attributes:
+        somekeybad: somevaluebad
+        anotherkeybad: anothervaluebad
